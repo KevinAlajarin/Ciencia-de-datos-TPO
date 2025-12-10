@@ -1,0 +1,6 @@
+function HistoricPage (){
+    return(
+        <>
+        </>
+    )
+}
