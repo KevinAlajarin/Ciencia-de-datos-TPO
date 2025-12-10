@@ -253,8 +253,8 @@ pip install -r requirements.txt
 2. **Configurar variables de entorno**:
 Crear archivo `.env` en `backend/procesamiento/`:
 ```
-MONGODB_URI=mongodb+srv://usuario:password@cluster.mongodb.net/?retryWrites=true&w=majority
-MONGODB_DATABASE=ecommerce_brazil
+MONGODB_URI=
+MONGODB_DATABASE=
 ```
 
 3. **Ejecutar el proceso ETL**:
